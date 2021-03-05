@@ -1,1 +1,1 @@
-# blogimg-HexoStaticFile
+# 图床 PicGo+Github repo
